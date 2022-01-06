@@ -1,0 +1,2 @@
+Description,Prix unitaire,Quantité,Prix,Pour qui ?,
+Capsules pour Jetons 35mm,"3,95€",3,"11,85€",Icon
